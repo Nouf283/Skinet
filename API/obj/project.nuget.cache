@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wLHc3Ty8WRz342f9HKbIUY0xeneMmgPz6J6D+4JwEf1VrXLdZ+FevQqF7G9B8M7xbIiz58X06GCovdFL7rSfgw==",
+  "dgSpecHash": "NbL2GWdeRMIN92xIUYqb2KiPxZBET1mtsZN7QXI4I3ADDnDRAxEJ7AJADtI4irIwg9t6ktxSmZHdXtFd9EPOBg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Skynet\\API\\API.csproj",
+  "projectFilePath": "C:\\Projects\\Skynet\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noufa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\noufa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
