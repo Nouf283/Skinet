@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Skynet\\api\\API.csproj": {}
+    "c:\\Projects\\Skynet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Skynet\\api\\API.csproj": {
+    "c:\\Projects\\Skynet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Skynet\\api\\API.csproj",
+        "projectUniqueName": "c:\\Projects\\Skynet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Projects\\Skynet\\api\\API.csproj",
+        "projectPath": "c:\\Projects\\Skynet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\noufa\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Skynet\\api\\obj\\",
+        "outputPath": "c:\\Projects\\Skynet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noufa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +40,14 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.1, )"
             },
